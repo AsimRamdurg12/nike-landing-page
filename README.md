@@ -1,1 +1,2 @@
-# Nike Landing Page using React and Tailwind
+# Nike Landing Page
+Tech Stack: React.js, Tailwind
